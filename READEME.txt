@@ -15,28 +15,28 @@ Each real cube face is represented by a string of 9 chars delimited by a comma:
 
 ===============================================
 WHITE FACE: 		[g][g][r]
-					[o][W][o]
-					[b][b][y]
+			[o][W][o]
+			[b][b][y]
 			
-RED FACE:	 		[b][r][w]
-					[r][R][y]
-					[o][w][g]
+RED FACE: 		[b][r][w]
+			[r][R][y]
+			[o][w][g]
 				
 GREEN FACE: 		[w][b][o]
-					[y][G][g]
-					[b][w][r]
-			
+			[y][G][g]
+			[b][w][r]
+		
 ORANGE FACE: 		[y][o][o]
-					[w][O][b]
-					[b][r][g]
+			[w][O][b]
+			[b][r][g]
 			
-BLUE FACE: 			[w][g][y]
-					[w][B][g]
-					[w][o][r]
+BLUE FACE: 		[w][g][y]
+			[w][B][g]
+			[w][o][r]
 				
 YELLOW FACE: 		[g][y][o]
-					[y][Y][r]
-					[y][b][r]
+			[y][Y][r]
+			[y][b][r]
 			
 ===============================================
 
