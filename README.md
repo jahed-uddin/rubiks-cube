@@ -15,9 +15,11 @@ Each real cube face is represented by a string of 9 chars delimited by a comma:
 
 
 ===============================================
-WHITE FACE: 		[g][g][r]
-			[o][W][o]
-			[b][b][y]
+WHITE FACE: 
+
+"[g][g][r]
+[o][W][o]
+[b][b][y]"
 			
 RED FACE: 	  	[b][r][w]
 		           	[r][R][y]
